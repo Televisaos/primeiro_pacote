@@ -1,7 +1,8 @@
 # pacote_teste_vitali
 
 Description
-The package pacote_teste_vitali is only for training package creation by the autor without any other purpose or function :-p
+The package pacote_teste_vitali is only for training package creation by the autor without any other purpose or function
+Link para o repositório: https://test.pypi.org/project/teste-vitali/
 
 ## Installation
 
