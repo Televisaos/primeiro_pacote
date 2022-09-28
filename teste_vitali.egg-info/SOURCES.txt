@@ -1,0 +1,8 @@
+README.md
+setup.py
+teste/__init__.py
+teste/hello.py
+teste_vitali.egg-info/PKG-INFO
+teste_vitali.egg-info/SOURCES.txt
+teste_vitali.egg-info/dependency_links.txt
+teste_vitali.egg-info/top_level.txt

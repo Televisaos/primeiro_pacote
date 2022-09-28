@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: teste-vitali
+Version: 0.0.1
+Summary: Test version - Training package creation. This project belongs to Tiago Vitali, chemistry Technician, Oerations Technician, Chemical Engineering, Project Manager and  Data Scientist student. This package is a demo for simulation of upload on the Test Pypi website, and it's from class of the Bootcamp DIO UNIMED Ciência de Dados. E-mail:televisaos@hotmail.com.
+Home-page: https://github.com/Televisaos
+Author: Tiago Vitali
+Author-email: televisaos@hotmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# pacote_teste_vitali
+
+Description
+The package pacote_teste_vitali is only for training package creation by the autor without any other purpose or function :-p
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable) to install package_name
+
+```bash
+pip install pacote_teste_vitali
+```
+
+## Usage
+
+```python
+from pacote_teste_vitali.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+Tiago Vitali
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
